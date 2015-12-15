@@ -1,0 +1,72 @@
+/* comment css*/
+#content{
+    /*margin:20px auto;*/
+    margin-left:300px;
+    margin-right:300px;
+}
+#mainbody {
+    border-radius:10px;
+    border-width:6px;
+    background-color:cornflowerblue;
+    margin-left:300px;
+    margin-right:300px;
+}
+#ps4 {
+    float:left;
+}
+#xbox {
+    float:right;
+}
+
+#header {
+/*    border-style:solid;
+    border-color:white;
+ */   border-radius:20px;
+    border-width:6px;
+    color:lightskyblue;
+    padding-left:10px;
+    background-color:cornflowerblue;
+    margin:0px;
+    padding:0 30%;
+    
+    
+}
+h1 {
+    margin-top:0px;
+}
+#slogan {
+    color:white;
+}
+#nav a{
+    text-decoration:none;
+    padding:0px 10px;
+}
+#nav {
+    background-color:white;
+    border-style:solid;
+    border-radius:15px;
+    border-color:cornflowerblue;
+    padding:10px;
+    
+}
+#left {
+    position:fixed;
+    left:0px;
+    top:0px;
+}
+#right {
+    position:fixed;
+    top:0px;
+    right:0px;
+}
+
+#left img, #right img {
+    width:300px;
+    height:900px;
+}
+
+body {
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
